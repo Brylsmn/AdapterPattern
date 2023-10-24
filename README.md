@@ -20,6 +20,7 @@ You are developing an application that helps users manage and control various el
   RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
   
   SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
+  
 # UML Class Diagram
-![Alt text](https://www.facebook.com/messenger_media/?attachment_id=1649870828835534&message_id=mid.%24cAABa9Diic4CRkizBH2LYOd08cNGq&thread_id=100004968690560)
+![Alt text](https://scontent.fcrk4-1.fna.fbcdn.net/v/t1.15752-9/394394512_345016551327713_5902528441976973041_n.png?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeElInLNhe1Jbv4iWW-4wfDIXDfs34FADPpcN-zfgUAM-tsWA31z4Qcw4thPrtfTlvFB_TS0Vm6Gv7yV5-of3g0V&_nc_ohc=0B9gPeq86YUAX_ipsev&_nc_ht=scontent.fcrk4-1.fna&oh=03_AdSYhqAfFAv05Qn7FVpGRfiVx30QA35oXqhHsTH0UerNAA&oe=655EFE0E)
 
