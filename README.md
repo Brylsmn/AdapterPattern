@@ -21,4 +21,4 @@ You are developing an application that helps users manage and control various el
   
   SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 # UML Class Diagram
-![Alt text](https://www.facebook.com/messenger_media/?attachment_id=345016547994380&message_id=mid.%24cAABa9Diic4CRkiWR6mLYOBFCFN5y&thread_id=100004968690560)
+![Alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/393622969_285759361088804_4773994227263647428_n.png?stp=dst-png_p403x403&_nc_cat=111&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFALzAbZGiwxq0jI05qmRbAFMxhOxwgFtUUzGE7HCAW1XHNGD-Wyqonr7J4-WhyHIeSKDQVXDOkspQ_aLOuFZHy&_nc_ohc=MzPfqM_g6HsAX_0quYL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQSg_eey9JqIOzfTqCqOIZ7Xjc84VUKfIShKoOTCuea4g&oe=655585B1)
